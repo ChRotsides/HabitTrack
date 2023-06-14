@@ -29,18 +29,18 @@ What things you need to install the software and how to install them.
 
 ## Application Screens
 
-![Register Screen](register.jpg)
-![Login Screen](signIn.jpg)
-![Empty TODO List Screen](emptyTODOList.jpg)
-![Add TODO1 Screen](AddTODO.jpg)
-![Add TODO2 Screen](AddTODO2.jpg)
-![TODO List Screen](TODOList.jpg)
-![Habits List Screen](HabitsList.jpg)
-![Rate Screen](RateScreen.jpg)
-![Share Screen](share.jpg)
-![User Info Screen](UserInfoScreen.jpg)
-![Αbout Screen](AboutScreen.jpg)
-![Menu](menu.jpg)
+![Register Screen](./media/register.jpg)
+![Login Screen](./media/signIn.jpg)
+![Empty TODO List Screen](./media/emptyTODOList.jpg)
+![Add TODO1 Screen](./media/AddTODO.jpg)
+![Add TODO2 Screen](./media/AddTODO2.jpg)
+![TODO List Screen](./media/TODOList.jpg)
+![Habits List Screen](./media/HabitsList.jpg)
+![Rate Screen](./media/RateScreen.jpg)
+![Share Screen](./media/share.jpg)
+![User Info Screen](./media/UserInfoScreen.jpg)
+![Αbout Screen](./media/AboutScreen.jpg)
+![Menu](./media/menu.jpg)
 
 
 Authors
