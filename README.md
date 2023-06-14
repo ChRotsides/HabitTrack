@@ -1,6 +1,6 @@
-# Project Title
+# HabitTrack
 
-One Paragraph of project description goes here.
+This Application was written in Android Studio using Java by Charalambos Rotsides as the final project for the course ECE464. This application can track your habits and tasks and give you experience in completing them. This application uses Firebase to store login and personal information such as tasks, experience, level, and habits.
 
 ## Getting Started
 
@@ -26,6 +26,8 @@ What things you need to install the software and how to install them.
 - Android Studio - The IDE used
 - Java - The language used
 - Firebase - Mobile platform used for developing high-quality apps
+
+
 
 Authors
 Charalambos Rotsides
