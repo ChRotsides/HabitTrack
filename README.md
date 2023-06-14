@@ -16,7 +16,7 @@ What things you need to install the software and how to install them.
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/your/your-project.git`
+1. Clone this repository: `git clone https://github.com/ChRotsides/HabitTrack.git`
 2. Open the project in Android Studio: `File > Open > select the project`
 3. Connect the project with Firebase: `Tools > Firebase > (Choose your Firebase service) > Connect to Firebase`
 4. Wait for the Gradle sync to finish and then build the project: `Build > Make Project`
@@ -27,6 +27,20 @@ What things you need to install the software and how to install them.
 - Java - The language used
 - Firebase - Mobile platform used for developing high-quality apps
 
+## Application Screens
+
+![Register Screen](register.jpg)
+![Login Screen](signIn.jpg)
+![Empty TODO List Screen](emptyTODOList.jpg)
+![Add TODO1 Screen](AddTODO.jpg)
+![Add TODO2 Screen](AddTODO2.jpg)
+![TODO List Screen](TODOList.jpg)
+![Habits List Screen](HabitsList.jpg)
+![Rate Screen](RateScreen.jpg)
+![Share Screen](share.jpg)
+![User Info Screen](UserInfoScreen.jpg)
+![Αbout Screen](AboutScreen.jpg)
+![Menu](menu.jpg)
 
 
 Authors
