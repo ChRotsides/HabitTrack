@@ -37,7 +37,6 @@ What things you need to install the software and how to install them.
 ![TODO List Screen](./media/TODOList.jpg)
 ![Habits List Screen](./media/HabitsList.jpg)
 ![Rate Screen](./media/RateScreen.jpg)
-![Share Screen](./media/share.jpg)
 ![User Info Screen](./media/UserInfoScreen.jpg)
 ![Αbout Screen](./media/AboutScreen.jpg)
 ![Menu](./media/menu.jpg)
